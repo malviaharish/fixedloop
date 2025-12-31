@@ -123,6 +123,3 @@ Graft adequacy: {'Adequate' if graft_excess >= 0 else 'Inadequate'}
 
 st.text_area("Copy into operative notes:", note, height=190)
 
-st.caption(
-    "⚕️ Educational decision-support tool. Final surgical judgment remains with the operating surgeon."
-)
